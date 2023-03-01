@@ -761,6 +761,8 @@ text-decoration:none;
 }
 .profile-intro p img{
     width: 20px;
+    position: absolute;
+    margin-left: 4px;
 }
 .photo-box img{
 
